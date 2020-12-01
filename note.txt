@@ -1,0 +1,12 @@
+python3 支持vim
+
+python-mode
+  +syntax
+  +highlight
+
+completer
+
+语法检测（ale）
+
+
+
